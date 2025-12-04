@@ -1,2 +1,2 @@
-Diversity-Aware Contrastive Learning for Semi-Supervised Tertiary Lymphoid Structure Segmentation via Determinantal Point Processes
-we will release the code at here.
+Diversity-Aware Contrastive Learning for Semi-Supervised Tertiary Lymphoid Structure Segmentation via Determinantal Point Processes.
+We will release the code here.
